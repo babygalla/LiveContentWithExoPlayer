@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.TvView" parent="@style/Theme.Leanback" />
+</resources>
